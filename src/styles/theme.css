@@ -1,0 +1,21 @@
+:root {
+
+    --color-primary: #050816;
+
+    --color-secondary: #0f172a;
+
+    --color-accent: #38BDF8;
+
+    --color-purple: #8B5CF6;
+
+    --color-white: #ffffff;
+
+    --color-text: #CBD5E1;
+
+    --container-width: 1280px;
+
+    --section-padding: 120px;
+
+    --transition: 0.4s;
+
+}
